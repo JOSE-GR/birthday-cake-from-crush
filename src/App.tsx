@@ -77,13 +77,13 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> Feliz Año Nuevo",
   "...",
-  "> today is your birthday",
+  "> te amo mucho mi ali",
   "...",
-  "> so i made you this computer program",
+  "> gracias por el 2025",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "<3 <3 <3 <3 <3"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
